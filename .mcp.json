@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "website-link-builder": {
+      "type": "http",
+      "url": "https://airesearchplus.com/mcp_website2"
+    }
+  }
+}
