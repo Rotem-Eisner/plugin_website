@@ -1,15 +1,14 @@
 {
-  "name": "airesearchplus-website-builder"
-  "displayName": "Website & App Builder by AI Research Plus"
-  "version": "1.0.0"
-  "description": "Plan a new website, web app, mobile app or online store in a few quick questions, then get a link that opens Emergent's AI app builder with your plan filled in."
+  "name": "airesearchplus-website-builder",
+  "displayName": "Website & App Builder by AI Research Plus",
+  "version": "1.0.0",
+  "description": "Plan a new website, web app, mobile app or online store in a few quick questions, then get a link that opens Emergent's AI app builder with your plan filled in.",
   "author": {
-    "name": "AI Research Plus"
-    "email": "contact@airesearchplus.com"
+    "name": "AI Research Plus",
+    "email": "contact@airesearchplus.com",
     "url": "https://airesearchplus.com"
-    "privacyPolicyUrl": "https://airesearch.com/privacy"
   },
-  "homepage": "https://airesearchplus.com"
-  "license": "MIT"
+  "homepage": "https://airesearchplus.com",
+  "license": "MIT",
   "keywords": ["website", "app-builder", "mobile-app", "online-store", "no-code"]
 }
