@@ -1,7 +1,6 @@
 # Website & App Builder by AI Research Plus
 
-Plan a new website, web app, mobile app, online store, chatbot or AI agent with Claude in a few quick questions, then get a link that opens Emergent's AI app builder with your plan filled in.
-
+Plan a new website, web app, mobile app, online store, chatbot or AI agent with Claude in a few quick questions
 ## How it works
 
 1. Tell Claude what you want to build.
