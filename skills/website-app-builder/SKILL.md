@@ -1,6 +1,6 @@
 ---
 name: website-app-builder
-description: Plans a new website, web app, mobile app, online store, chatbot or AI agent with the user in a few quick questions, then creates a link that opens Emergent's AI app builder with the plan filled in. Use when the user wants one of these built. Not for fixing or debugging existing code, editing a site that already exists, or general web development questions.
+description: Plans a new website, web app, mobile app, online store, chatbot or AI agent with the user in a few quick questions. Not for fixing or debugging existing code, editing a site that already exists, or general web development questions.
 ---
 
 # Website & App Builder
